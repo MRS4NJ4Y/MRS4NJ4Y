@@ -1,5 +1,5 @@
 # <b> <p align="center" > WELCOME! </b></p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&width=280&lines=DEV_SANJAY;WHITEDHACKER;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&width=280&lines=MR_SANJAY;MR_SANJAY;" alt="Typing SVG" /></a>
  <a href="#"><img src="https://img.shields.io/github/followers/MRS4NJ4Y?style=social&label=follow"  height="80" width="140" ></a>
   <a href="#"><img src="https://img.shields.io/github/stars/MRS4NJ4Y?style=social"  height="80" width="140" ></a>
  <img src="https://komarev.com/ghpvc/?username=MRS4NJ4Y&label=Profile%20views&color=0e75b6&style=flat" alt="MRS4NJ4Y"  height="80" width="240" /> </p>
@@ -15,10 +15,8 @@
 
 ##  <b> <p align="center"> Connect with Me  </b></p>
 <p align="center">
-<a href="https://www.facebook.com/MRS4NJ4Y" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="MRS4NJ4Y" height="40" width="40" /></a>
-<a href="https://instagram.com/MRS4NJ4Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MRS4NJ4Y" height="40" width="40" /></a>
-<a href="https://t.me/MRS4NJ4Y" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="MRS4NJ4Y" height="40" width="40" /></a>
-<a href="https://whatsapp.com/channel/0029VaIlY264IBh9T2iaey0r" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" alt="MRS4NJ4Y" height="40" width="40" /></a>
+<a href="https://instagram.com/officialsanjay0143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MRS4NJ4Y" height="40" width="40" /></a>
+<a href="https://t.me/officialsanjay0143" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="MRS4NJ4Y" height="40" width="40" /></a>
 <a href="https://github.com/MRS4NJ4Y" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" alt="MRS4NJ4Y" height="40" width="40" /></a>
 </p>
 
@@ -50,16 +48,12 @@
 
  ## Donate/Support: 
 <p align="center">
-<a href="https://www.buymeacoffee.com/MRS4NJ4Y" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/WHITEDH4CKER" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
 
 ***
 ## Repositories
 <p align="center">
-<a href="https://github.com/MRS4NJ4Y/"><img title="SMSBOMB" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=SMSBOMB&theme=radical"></a>
-<a href="https://github.com/MRS4NJ4Y/WA-CRASH"><img title="WA-CRASH" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=WA-CRASH&theme=highcontrast"></a>
-<a href="https://github.com/MRS4NJ4Y/FB-BRUTEFORCE"><img title="FB-BRUTEFORCE" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=FB-BRUTEFORCE&theme=vision-friendly-dark"></a>
-<a href="https://github.com/MRS4NJ4Y/IG-BRUTEFORCE"><img title="Master-Bomber" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=IG-BRUTEFORCE&theme=highcontrast"></a>
- <a href="https://github.com/MRS4NJ4Y/MRDDOS"><img title="MRDDOS" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=MRDDOS&theme=vision-friendly-dark"></a>
-<a href="https://github.com/MRS4NJ4Y/MRS4NJ4Y"><img title="INTRODUCTION" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=MRS4NJ4Y&theme=highcontrast"></a>
+<a href="https://github.com/MRS4NJ4Y/"><img title="c-basic" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=c-basic&theme=radical"></a>
+<a href="https://github.com/MRS4NJ4Y/MRS4NJ4Y"><img title="MRS4NJAY" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=MRS4NJ4Y&theme=highcontrast"></a>
 </p>
