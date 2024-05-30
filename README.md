@@ -10,7 +10,7 @@
 
 ***
 
-<p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MRS4NJ4Y&theme=dark" alt="MRS4NJ4Y" /></p>
+<p> <img align="left" src="![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRS4NJ4Y&theme=dark&show_icons=true)" alt="MRS4NJ4Y" /></p>
 <a href="#"><img align="left" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRS4NJ4Y&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=280&hide_title=true&langs_count=6"></a>
 
 ##  <b> <p align="center"> Connect with Me  </b></p>
