@@ -12,9 +12,20 @@
 ***
 ##  <b> <p align="center"> Connect with Me  </b></p>
 <p align="center">
+
+<a href="https://instagram.com/officialsanjay0143" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="MRS4NJ4Y" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/mr-sanjay-kumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+
 <a href="https://instagram.com/officialsanjay0143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MRS4NJ4Y" height="40" width="40" /></a>
+<a href="https://instagram.com/officialsanjay0143" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram" alt="Instagram"></a>
+
 <a href="https://t.me/officialsanjay0143" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="MRS4NJ4Y" height="40" width="40" /></a>
+<a href="https://t.me/officialsanjay0143" target="_blank"><img src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram" alt="Telegram"></a>
+
+
 <a href="https://github.com/MRS4NJ4Y" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" alt="MRS4NJ4Y" height="40" width="40" /></a>
+<a href="https://github.com/MRS4NJ4Y" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
+
 </p>
 
 ***
