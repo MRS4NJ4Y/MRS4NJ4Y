@@ -11,7 +11,9 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MRS4NJ4y?cardType=github&theme=merko&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRS4NJ4Y&layout=compact)
+![MRS4NJ4Y's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MRS4NJ4Y&theme=vue-dark&hide_border=true)
+
+![MRS4NJ4Y's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRS4NJ4Y&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ***
 ##  <b> <p align="center"> Connect with Me  </b></p>
