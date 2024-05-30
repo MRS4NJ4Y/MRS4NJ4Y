@@ -11,6 +11,8 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MRS4NJ4y?cardType=github&theme=merko&preferLogin=false)](https://git.io/awesome-stats-card)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRS4NJ4Y&layout=compact)
+
 ***
 ##  <b> <p align="center"> Connect with Me  </b></p>
 <p align="center">
