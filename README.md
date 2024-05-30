@@ -5,7 +5,7 @@
  <img src="https://komarev.com/ghpvc/?username=MRS4NJ4Y&label=Profile%20views&color=0e75b6&style=flat" alt="MRS4NJ4Y"  height="80" width="240" /> </p>
 
 ***
-<img align="left" src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif"  height="200" width="400"/>
+<img align="left" src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif"  height="200" width="450"/>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MRS4NJ4y?cardType=github&theme=merko&preferLogin=false)](https://git.io/awesome-stats-card)
 
