@@ -1,5 +1,5 @@
 # <b> <p align="center" > WELCOME! </b></p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&width=280&lines=MR_SANJAY;MR_SANJAY;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&width=280&lines=>_ MR SANJAY;>_ MR SANJAY;" alt="Typing SVG" /></a>
  <a href="#"><img src="https://img.shields.io/github/followers/MRS4NJ4Y?style=social&label=follow"  height="80" width="140" ></a>
   <a href="#"><img src="https://img.shields.io/github/stars/MRS4NJ4Y?style=social"  height="80" width="140" ></a>
  <img src="https://komarev.com/ghpvc/?username=MRS4NJ4Y&label=Profile%20views&color=0e75b6&style=flat" alt="MRS4NJ4Y"  height="80" width="240" /> </p>
