@@ -24,7 +24,7 @@
 <a href="https://instagram.com/officialsanjay0143" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram" alt="Instagram"></a></p>
 
 <p align="center">
- <a href="https://t.me/officialsanjay0143" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="MRS4NJ4Y" height="40" width="40" /></a>
+ <a href="https://t.me/MRS4NJ4Y" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="MRS4NJ4Y" height="40" width="40" /></a>
 <a href="https://t.me/MRS4NJ4Y" target="_blank"><img src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram" alt="Telegram"></a>
 <a href="https://github.com/MRS4NJ4Y" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" alt="MRS4NJ4Y" height="40" width="40" /></a>
 <a href="https://github.com/MRS4NJ4Y" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a></p>
