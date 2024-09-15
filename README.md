@@ -55,10 +55,10 @@
 ## Repositories
 <p align="center">
 
-<a href="https://github.com/MRS4NJ4Y/CSVTURESULT"><img title="c-basic" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=c-basic&theme=radical"></a>
- <a href="https://github.com/MRS4NJ4Y/CODE-WITH-CPP"><img title="c-basic" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=c-basic&theme=radical"></a>
- <a href="https://github.com/MRS4NJ4Y/CODE-WITH-C"><img title="c-basic" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=c-basic&theme=radical"></a>
- <a href="https://github.com/MRS4NJ4Y/CODE-WITH-PYTHON"><img title="c-basic" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=c-basic&theme=radical"></a>
+<a href="https://github.com/MRS4NJ4Y/CSVTURESULT"><img CSVTUEXAM" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CSVTUEXAM&theme=radical"></a>
+ <a href="https://github.com/MRS4NJ4Y/CODE-WITH-CPP"><img title="CODE-WITH-CPP" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CODE-WITH-CPP&theme=radical"></a>
+ <a href="https://github.com/MRS4NJ4Y/CODE-WITH-C"><img title="CODE-WITH-C" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CODE-WITH-C&theme=radical"></a>
+ <a href="https://github.com/MRS4NJ4Y/CODE-WITH-PYTHON"><img title="CODE-WITH-PYTHON" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CODE-WITH-PYTHON&theme=radical"></a>
 
  <a href="https://github.com/MRS4NJ4Y/MRS4NJ4Y"><img title="MRS4NJAY" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=MRS4NJ4Y&theme=highcontrast"></a>
 </p>
