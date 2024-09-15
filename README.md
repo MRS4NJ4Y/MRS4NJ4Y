@@ -55,10 +55,10 @@
 ## Repositories
 <p align="center">
 
-<a href="https://github.com/MRS4NJ4Y/CSVTURESULT"><img title="CSVTURESULT" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CSVTURESULT&theme=great-gatsby"></a>
+<a href="https://github.com/MRS4NJ4Y/CSVTURESULT"><img title="CSVTURESULT" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CSVTURESULT&theme=outrun"></a>
  <a href="https://github.com/MRS4NJ4Y/CODE-WITH-CPP"><img title="CODE-WITH-CPP" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CODE-WITH-CPP&theme=nightowl"></a>
  <a href="https://github.com/MRS4NJ4Y/CODE-WITH-C"><img title="CODE-WITH-C" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CODE-WITH-C&theme=blue-green"></a>
  <a href="https://github.com/MRS4NJ4Y/CODE-WITH-PYTHON"><img title="CODE-WITH-PYTHON" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CODE-WITH-PYTHON&theme=blueberry"></a>
 
- <a href="https://github.com/MRS4NJ4Y/MRS4NJ4Y"><img title="MRS4NJAY" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=MRS4NJ4Y&theme=outrun"></a>
+ <a href="https://github.com/MRS4NJ4Y/MRS4NJ4Y"><img title="MRS4NJAY" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=MRS4NJ4Y&theme=aura"></a>
 </p>
