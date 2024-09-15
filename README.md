@@ -9,11 +9,11 @@
 ***
 <img align="left" src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif"  height="200" width="450"/>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MRS4NJ4y?cardType=github&theme=merko&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MRS4NJ4y?cardType=github&theme=blueberry&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![MRS4NJ4Y's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MRS4NJ4Y&theme=vue-dark&hide_border=true)
+![MRS4NJ4Y's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MRS4NJ4Y&theme=maroongold&hide_border=true)
 
-![MRS4NJ4Y's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRS4NJ4Y&theme=vue-dark&layout=compact)
+![MRS4NJ4Y's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRS4NJ4Y&theme=shades-of-purple&layout=compact)
 
 ***
 ##  <b> <p align="center"> Connect with Me  </b></p>
