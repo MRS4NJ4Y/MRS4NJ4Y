@@ -55,7 +55,10 @@
 ## Repositories
 <p align="center">
 
- <a href="https://github.com/MRS4NJ4Y/c-basic"><img title="c-basic" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=c-basic&theme=radical"></a>
+<a href="https://github.com/MRS4NJ4Y/CSVTURESULT"><img title="c-basic" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=c-basic&theme=radical"></a>
+ <a href="https://github.com/MRS4NJ4Y/CODE-WITH-CPP"><img title="c-basic" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=c-basic&theme=radical"></a>
+ <a href="https://github.com/MRS4NJ4Y/CODE-WITH-C"><img title="c-basic" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=c-basic&theme=radical"></a>
+ <a href="https://github.com/MRS4NJ4Y/CODE-WITH-PYTHON"><img title="c-basic" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=c-basic&theme=radical"></a>
 
  <a href="https://github.com/MRS4NJ4Y/MRS4NJ4Y"><img title="MRS4NJAY" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=MRS4NJ4Y&theme=highcontrast"></a>
 </p>
