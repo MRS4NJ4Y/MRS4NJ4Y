@@ -1,3 +1,4 @@
+
 # <b> <p align="center" > WELCOME! </b></p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&width=280&lines=>_ MR SANJAY;>_ MR SANJAY;" /></a>
 
@@ -13,7 +14,22 @@
 
 ![MRS4NJ4Y's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MRS4NJ4Y&theme=maroongold&hide_border=true)
 
-![MRS4NJ4Y's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRS4NJ4Y&theme=shades-of-purple&layout=compact)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MRS4NJ4Y&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="200" width="500" alt="activity-graph graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MRS4NJ4Y&locale=en&hide_title=false&layout=compact&card_width=333&langs_count=6&theme=github_dark&hide_border=true&order=2" height="200" width="520" alt="languages graph"  />
+
+***
+###
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=MRS4NJ4Y&theme=matrix" alt="MRS4NJ4Y" /></a> </p>
+
+***
+- 🔭 I’m currently working on Artificial Intelligence project
+
+- 🌱 I’m currently learning DSA
+
+- 💬 Ask me about python, C, C++
+
+- 📫 How to reach me **sanjay.kumar@rungta.edu.in**
 
 ***
 ##  <b> <p align="center"> Connect with Me  </b></p>
@@ -54,7 +70,6 @@
 ***
 ## Repositories
 <p align="center">
-
 <a href="https://github.com/MRS4NJ4Y/CSVTURESULT"><img title="CSVTURESULT" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CSVTURESULT&theme=outrun"></a>
  <a href="https://github.com/MRS4NJ4Y/CODE-WITH-CPP"><img title="CODE-WITH-CPP" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CODE-WITH-CPP&theme=nightowl"></a>
  <a href="https://github.com/MRS4NJ4Y/CODE-WITH-C"><img title="CODE-WITH-C" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CODE-WITH-C&theme=blue-green"></a>
