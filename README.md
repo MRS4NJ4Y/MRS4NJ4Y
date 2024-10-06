@@ -71,9 +71,11 @@
 ## Repositories
 <p align="center">
 <a href="https://github.com/MRS4NJ4Y/CSVTURESULT"><img title="CSVTURESULT" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CSVTURESULT&theme=outrun"></a>
- <a href="https://github.com/MRS4NJ4Y/CODE-WITH-C"><img title="CODE-WITH-C" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CODE-WITH-C&theme=blue-green"></a>
- <a href="https://github.com/MRS4NJ4Y/CODE-WITH-CPP"><img title="CODE-WITH-CPP" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CODE-WITH-CPP&theme=nightowl"></a>
- <a href="https://github.com/MRS4NJ4Y/CODE-WITH-PYTHON"><img title="CODE-WITH-PYTHON" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CODE-WITH-PYTHON&theme=blueberry"></a>
- <a href="https://github.com/MRS4NJ4Y/Wordlist_Generator"><img title="Wordlist_Generator" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=Wordlist_Generator&theme=blue-green"></a>
- <a href="https://github.com/MRS4NJ4Y/MRS4NJ4Y"><img title="MRS4NJAY" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=MRS4NJ4Y&theme=aura"></a>
+<a href="https://github.com/MRS4NJ4Y/CODE-WITH-C"><img title="CODE-WITH-C" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CODE-WITH-C&theme=blue-green"></a>
+<a href="https://github.com/MRS4NJ4Y/CODE-WITH-CPP"><img title="CODE-WITH-CPP" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CODE-WITH-CPP&theme=nightowl"></a>
+<a href="https://github.com/MRS4NJ4Y/CODE-WITH-PYTHON"><img title="CODE-WITH-PYTHON" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=CODE-WITH-PYTHON&theme=blueberry"></a>
+<a href="https://github.com/MRS4NJ4Y/Wordlist_Generator"><img title="Wordlist_Generator" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=Wordlist_Generator&theme=blue-green"></a>
+<a href="https://github.com/MRS4NJ4Y/Web_Dev"><img title="Web_Dev" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=Web_Dev&theme=outrun"></a>
+<a href="https://github.com/MRS4NJ4Y/MY_PROJECTS"><img title="MY_PROJECTS" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=MY_PROJECTS&theme=nightowl"></a>
+<a href="https://github.com/MRS4NJ4Y/MRS4NJ4Y"><img title="MRS4NJAY" src="https://github-readme-stats.vercel.app/api/pin/?username=MRS4NJ4Y&repo=MRS4NJ4Y&theme=aura"></a>
 </p>
